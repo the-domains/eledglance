@@ -1,14 +1,28 @@
+name: eLEDglance
+favicon: null
 layout_spectrum: 0.2394604
 typography_spectrum: 0.744019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7847351
-  lightness: 0.9493758
-  brandStrength: 0.9553192
   brandColors:
     - '#FFFFFF'
     - '#6D6E70'
     - '#1F1F1F'
     - '#0203FF'
     - '#01FF01'
-  rhythmicContrast: 0.2464327
-name: eLEDglance
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.25
+purpose: []
