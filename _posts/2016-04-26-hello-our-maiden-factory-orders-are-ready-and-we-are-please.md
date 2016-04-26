@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hello, Our maiden factory orders are ready and we are pleased to show you the first of our products made!'
-datePublished: '2016-04-26T05:39:07.865Z'
-dateModified: '2016-04-26T05:39:04.594Z'
+datePublished: '2016-04-26T05:39:55.011Z'
+dateModified: '2016-04-26T05:39:54.685Z'
 title: ''
 author: []
 authors: []
