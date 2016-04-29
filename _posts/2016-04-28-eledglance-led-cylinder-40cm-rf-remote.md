@@ -1,15 +1,24 @@
 ---
-dateModified: '2016-04-28T21:45:53.615Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-title: eLEDglance LED Cylinder (40cm) - RF Remote
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: 'This colour changing LED cylinder from eLEDglance is a waterproof outdoor or indoor furniture item to transform your garden or a room into a beautifully lit space! Use it to sit on or a small table to keep your drinks on. It will be the talking point of your Party!'
+datePublished: '2016-04-29T11:26:38.327Z'
+dateModified: '2016-04-29T11:26:24.048Z'
+title: eLEDglance LED Cylinder (40cm) - RF Remote
 author: []
-starred: false
-datePublished: '2016-04-28T21:46:12.240Z'
 sourcePath: _posts/2016-04-28-eledglance-led-cylinder-40cm-rf-remote.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
@@ -19,7 +28,8 @@ _type: Article
 * RGBW Colour changing LED Cylinder
 * Long range multi-functional RF (radio frequency) remote
 * Dimensions: 40cm x 40cm x 40cm
-* Material: Eco-friendly PE plastic Waterproof level: IP65 for outdoor use
+* Material: Eco-friendly PE plastic 
+* Waterproof level: IP65 for outdoor use
 * Light source: 12pcs RGB5050 + 12pcs W3014 LED
 * Inbuilt rechargeable battery: 5V1A,100-240V
 * Works for 8-12 hours when fully charged
