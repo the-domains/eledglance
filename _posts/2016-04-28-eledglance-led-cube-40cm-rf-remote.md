@@ -1,20 +1,28 @@
 ---
-dateModified: '2016-04-28T21:07:37.629Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-title: eLEDglance LED Cube (40cm) - RF Remote
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: 'This colour changing LED cube from eLEDglance is a waterproof outdoor or indoor furniture item to transform your garden or a room into a beautifully lit space! Use it to sit on or a small table to keep your drinks on. It will be the talking point of your Party!'
+datePublished: '2016-05-22T13:08:37.345Z'
+dateModified: '2016-04-29T11:29:10.564Z'
+title: eLEDglance LED Cube (40cm) - RF Remote
 author: []
-starred: false
-datePublished: '2016-04-28T21:08:09.061Z'
 sourcePath: _posts/2016-04-28-eledglance-led-cube-40cm-rf-remote.md
-published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b25bc223a5de9d1a818722ee6f4fabcc9258ca2e.jpg)
+eLEDglance LED Cube (40cm) - RF Remote ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b25bc223a5de9d1a818722ee6f4fabcc9258ca2e.jpg)
 
 * RGBW Colour changing LED Cube
 * Long range multi-functional RF (radio frequency) remote
